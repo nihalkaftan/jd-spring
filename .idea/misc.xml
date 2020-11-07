@@ -4,6 +4,12 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/Spring-01-SpringContainer/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring-02-DI-ConstructorInjection/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring-02-DI-SetterInjection/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring-03-BeanScopeSingleton-Prototype/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring-04-BeanLifeCycle-InitAndDestroyMethod/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring-05-JavaAnnotations-Components/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring-05-JavaAnnotations-AutoWired/pom.xml" />
       </list>
     </option>
   </component>
