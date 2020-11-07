@@ -1,6 +1,7 @@
 package com.cybertek.configs;
 
 
+import com.cybertek.interfaces.ExtraSessions;
 import com.cybertek.services.Java;
 import com.cybertek.services.OfficeHours;
 import com.cybertek.services.Selenium;
@@ -14,7 +15,7 @@ public class CybertekAppConfig {
 
     @Bean
     public Java java(){
-        return new Java(officeHours());
+        return new Java(extraSessions());
     }
 
     @Bean
@@ -22,9 +23,13 @@ public class CybertekAppConfig {
         return new Selenium();
     }
 
+//    @Bean
+//    public OfficeHours officeHours(){
+//        return new OfficeHours();
+//    }
+
     @Bean
-    public OfficeHours officeHours(){
+    public ExtraSessions extraSessions(){ //ExtraSessions ex = new OfficeHours();
         return new OfficeHours();
     }
-
 }
