@@ -11,6 +11,8 @@
       <module fileurl="file://$PROJECT_DIR$/Spring-04-BeanLifeCycle-InitAndDestroyMethod/Spring-04-BeanLifeCycle-InitAndDestroyMethod.iml" filepath="$PROJECT_DIR$/Spring-04-BeanLifeCycle-InitAndDestroyMethod/Spring-04-BeanLifeCycle-InitAndDestroyMethod.iml" />
       <module fileurl="file://$PROJECT_DIR$/Spring-05-JavaAnnotations-AutoWired/Spring-05-JavaAnnotations-AutoWired.iml" filepath="$PROJECT_DIR$/Spring-05-JavaAnnotations-AutoWired/Spring-05-JavaAnnotations-AutoWired.iml" />
       <module fileurl="file://$PROJECT_DIR$/Spring-05-JavaAnnotations-Components/Spring-05-JavaAnnotations-Components.iml" filepath="$PROJECT_DIR$/Spring-05-JavaAnnotations-Components/Spring-05-JavaAnnotations-Components.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring-05-JavaAnnotations-Qualifier/Spring-05-JavaAnnotations-Qualifier.iml" filepath="$PROJECT_DIR$/Spring-05-JavaAnnotations-Qualifier/Spring-05-JavaAnnotations-Qualifier.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring-05-Value/Spring-05-Value.iml" filepath="$PROJECT_DIR$/Spring-05-Value/Spring-05-Value.iml" />
     </modules>
   </component>
 </project>

@@ -10,6 +10,8 @@
         <option value="$PROJECT_DIR$/Spring-04-BeanLifeCycle-InitAndDestroyMethod/pom.xml" />
         <option value="$PROJECT_DIR$/Spring-05-JavaAnnotations-Components/pom.xml" />
         <option value="$PROJECT_DIR$/Spring-05-JavaAnnotations-AutoWired/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring-05-JavaAnnotations-Qualifier/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring-05-Value/pom.xml" />
       </list>
     </option>
   </component>
