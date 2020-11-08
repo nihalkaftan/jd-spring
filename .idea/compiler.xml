@@ -10,6 +10,7 @@
         <module name="Spring-01-SpringContainer" />
         <module name="Spring-04-BeanLifeCycle-InitAndDestroyMethod" />
         <module name="Spring-05-JavaAnnotations-Components" />
+        <module name="Spring-07-SpringBoot-Demo" />
         <module name="Spring-05-JavaAnnotations-AutoWired" />
         <module name="Spring-02-DI-SetterInjection" />
         <module name="Spring-06-JavaCode-Configuration" />
@@ -32,6 +33,12 @@
       <module name="Spring-05-Value" target="1.8" />
       <module name="Spring-06-JavaCode-Configuration" target="1.8" />
       <module name="Spring-06-JavaCode-PostConstruct-PreDestroy" target="1.5" />
+      <module name="Spring-07-SpringBoot-Demo" target="11" />
     </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="Spring-07-SpringBoot-Demo" options="-parameters" />
+    </option>
   </component>
 </project>
