@@ -50,8 +50,8 @@ public class HomeController {
         return "home";
     }
 
-    @GetMapping(value="home/course")
-    public String requestParamEx2(@RequestParam(value="name", required = false, defaultValue = "Cybertek") String name ){
+    @GetMapping(value="home/course2")
+    public String requestParamEx2(@RequestParam(value="course2", required = false, defaultValue = "Cybertek") String name ){
         System.out.println("name is: " + name);
         return "home";
     }
