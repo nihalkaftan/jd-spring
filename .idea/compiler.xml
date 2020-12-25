@@ -14,6 +14,7 @@
         <module name="Spring-02-DI-SetterInjection" />
         <module name="Spring-06-JavaCode-Configuration" />
         <module name="Spring-06-JavaCode-PostConstruct-PreDestroy" />
+        <module name="Spring-08-SpringBoot-MVC-Model-View(Thymeleaf)" />
         <module name="Spring-01-SpringContainer" />
         <module name="Spring-04-BeanLifeCycle-InitAndDestroyMethod" />
         <module name="Spring-05-JavaAnnotations-Components" />
