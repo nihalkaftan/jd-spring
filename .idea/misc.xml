@@ -31,6 +31,8 @@
         <option value="$PROJECT_DIR$/Spring-09-ORM-OneToMany/pom.xml" />
         <option value="$PROJECT_DIR$/Sprin-10-Security-DefaultConfiguration/pom.xml" />
         <option value="$PROJECT_DIR$/Spring-10-Security-CustomConfiguration/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring-10-Security-DefaultConfiguration/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring-10-Security-HttpBasic-AuthRoleBase/pom.xml" />
       </list>
     </option>
   </component>
